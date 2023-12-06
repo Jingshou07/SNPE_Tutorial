@@ -1,0 +1,11 @@
+{
+    "name": "yolov8s-3rd",
+    "lib": "/opt/thundersoft/algs/lib/libAlgYolov8s-3rd.so",
+    "3rd":true,
+    "config": {
+        "confidence-thresh": 0.5,
+        "nms-thresh": 0.5,
+        "min-box-border-size": 16,
+        "timing-seconds": 1
+    }
+}
